@@ -17,3 +17,15 @@ a{
 input{
     color: red;
 }
+@media (orientation: portrait){
+    main{
+        width: 500px;
+    }
+    footer{
+        width: 500px;
+    }
+    .a1{
+        width: 110px;
+        height: 130px;
+    }
+}
