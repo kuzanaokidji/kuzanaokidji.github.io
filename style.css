@@ -1,0 +1,19 @@
+header{
+    display: flex;
+}
+body {
+    background-color: #343a40;
+    margin-right: 150px;
+    margin-left: 150px;
+}
+.otjevi{
+    display:flex;
+    margin-left: 750px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+input{
+    color: red;
+}
